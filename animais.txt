@@ -1,0 +1,8 @@
+
+3	 Mariana	 Boneco	 Burro	 F	 10.10	 2
+4	 Pedro	 Boneco	 Burro	 M	 69.20	 1
+5	 Gustavo	 Boneco	 Burro	 F	 10.10	 1
+6	 Raquel	 Boneco	 Burro	 M	 69.20	 2
+7	 teste1	 teste2	 teste3	 f	 10.30	 2
+8	 teste3	 teste4	 teste5	 f	 10.20	 1
+9	 lopes	 burro	 raro	 m	 2.30	 1

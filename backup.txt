@@ -1,0 +1,23 @@
+1         Max         Cão        Labrador       Macho   12.5  101
+2         Bella       Cão        Poodle         Fêmea   5.2   102
+3         Rocky       Cão        Pastor Alemão  Macho   17.8  103
+4         Luna        Cão        Bulldog        Fêmea   9.6   104
+5         Milo        Gato       Siamese        Macho   0.8   105
+6         Chloe       Cão        Golden Retriever  Fêmea  6.4   101
+7         Cooper      Cão        Rottweiler     Macho   14.3  106
+8         Daisy       Cão        Dálmata        Fêmea   10.1  107
+9         Oliver      Cão        Beagle         Macho   11.9  108
+10        Simba       Gato       Persa          Macho   7.7   109
+11        Lucy        Cão        Pug            Fêmea   6.5   110
+12        Charlie     Cão        Husky Siberiano Macho  13.2  111
+13        Lily        Gato       Maine Coon     Fêmea   4.3   102
+14        Buddy       Cão        Boxer          Macho   16.7  101
+15        Maggie      Cão        Doberman       Fêmea   8.9   103
+16        Jack        Gato       Ragdoll        Macho   1.2   104
+17        Sadie       Cão        Shih Tzu       Fêmea   7.1   105
+18        Duke        Cão        Malamute       Macho   9.3   106
+19        Rosie       Gato       Bengal         Fêmea   5.8   107
+20        Bear        Cão        Chow Chow      Macho   14.5  108
+21        Oscar       Cão        Yorkshire Terrier Macho  10.4  109
+22        Nala        Gato       Sphynx         Fêmea   6.9   110
+23        Tucker      Cão        Cocker Spaniel Macho  12.1  111
